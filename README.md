@@ -33,7 +33,7 @@ NextMeeting is a full-stack application that combines the power of Next.js on th
 
 You can deploy NextMeeting easily with Vercel. Click the button below to deploy:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://next-meeting-beta.vercel.app/)
+[![Open](https://vercel.com/button)](https://next-meeting-beta.vercel.app/)
 
 #### License 📝
 
